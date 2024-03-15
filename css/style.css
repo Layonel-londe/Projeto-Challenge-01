@@ -71,9 +71,9 @@ body{
 .container-bot{
     display: flex;
     flex-direction: column;
-    margin-left: 700px;
+    margin-left: 300px;
     align-items: center;
-    padding: 30px;
+    margin: 50px;
     background: transparent;
     background: rgba(109, 109, 109, 0.305);
     border-radius: 32px;
@@ -90,7 +90,7 @@ body{
     text-align: center;
     color: var(--cortitulo);
     width: 400px;
-    height: 400px;
+    height: 300px;
     font-size: 20px;
     margin-top: 150px;
     background: transparent;
